@@ -28,7 +28,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 npm install vue bootstrap bootstrap-vue
 ```
 
-## Install bootstrap
+## Install jquery
 ```
 npm install jquery --save
 ```
